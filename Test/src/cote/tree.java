@@ -74,6 +74,14 @@ public class tree {
 		}
 		return 0;
 	}
+	
+	public int star7(int num) {
+		
+		
+		
+		
+		return 0;
+	}
 	public static void main(String[] args) {
 		
 		tree test = new tree();
